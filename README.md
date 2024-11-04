@@ -1,7 +1,5 @@
 
-<p align="center">
-![Logo](https://TN-Pull-Zone.b-cdn.net/github-profile.jpg)
-</p>
+
 <p align="center">
 <a href=""><img src="https://github.com/Kos-M/Kos-M/raw/main/contributions.svg" style="max-width: 100%;"></a>
 </p>
