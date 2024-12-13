@@ -44,6 +44,7 @@ Beyond coding, I have a deep passion for travel and the outdoors. I'm committed 
 
 </p>
 <br>
+<center>
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/tn-py"
@@ -51,6 +52,7 @@ Beyond coding, I have a deep passion for travel and the outdoors. I'm committed 
   height="300"
 />
 </a>
+</center>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tn-py&icon=6&color=7)](https://visitcount.itsvg.in)
