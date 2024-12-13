@@ -3,8 +3,8 @@
 <p align="center">
 <a href=""><img src="https://github.com/Kos-M/Kos-M/raw/main/contributions.svg" style="max-width: 100%;"></a>
 </p>
-
 <div float="right"> 
+
 
 # About Me:
 Hello! I'm Tirso Navarro
@@ -43,7 +43,14 @@ Beyond coding, I have a deep passion for travel and the outdoors. I'm committed 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tn-py&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </p>
-
+<br>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/tn-py"
+  width="600"
+  height="300"
+/>
+</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tn-py&icon=6&color=7)](https://visitcount.itsvg.in)
