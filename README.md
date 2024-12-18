@@ -37,9 +37,8 @@ Beyond coding, I have a deep passion for travel and the outdoors. I'm committed 
 
 # 📊 GitHub Stats:
 
-<p align="center">
   [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/tn-py/langs)](https://githubtrends.io)
-</p>
+
 
 <br>
 <p align="center">
