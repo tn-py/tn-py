@@ -9,11 +9,11 @@
 # About Me:
 Hello! I'm Tirso Navarro
 
-Web Operations Supervisor and Aspiring Full-Stack Web Developer from Mexico City.
-With extensive experience in Shopify theme development, I specialize in creating seamless digital solutions that enhance user experience and operational efficiency.
-I'm proficient in building and optimizing Shopify themes, pages, scripts, and automations. Utilizing tools like Shopify Flow and Matrixify, I perform mass uploads and updates to streamline processes and reduce operational costs.
+Aspiring Full-Stack Web Developer from Mexico City.
+Extensive experience in Shopify theme development, I specialize in creating seamless digital solutions that enhance user experience and operational efficiency.
+I'm proficient in building and optimizing Shopify themes, pages, scripts, and automations. Utilizing tools like Shopify Flow, Matrixify and Shopify API. (learning more about GraphQL)
 
-Currently, I'm expanding my skill set in Node.js, React.js, Next.js, and exploring AI technologies such as OpenAI, Google Gemini, and Groq AI. I'm also delving into workflow automation tools like Zapier, n8n, and Botpress. Additionally, I'm learning more about Remix for custom Shopify applications and enhancing my IT infrastructure knowledge by setting up Proxmox with Coolify to self-host all my databases and applications.
+Currently, I'm expanding my skill set in Node.js, React.js, Next.js, and exploring AI technologies like agents and mcp servers. I'm also delving into workflow automation tools like Zapier, n8n, and Botpress. Additionally, I love learning about IT infrastructure and dev ops.
 
 Beyond coding, I have a deep passion for travel and the outdoors. I'm committed to building solutions that not only improve productivity but also make a significant impact.
 
