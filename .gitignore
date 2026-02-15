@@ -1,1 +1,4 @@
 .aider*
+.context/*
+logs/
+context/
